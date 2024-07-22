@@ -21,17 +21,6 @@ namespace MagicLandExplorer
             {
                 Console.WriteLine(e.ToString());
             }
-
-
-
-
-
-
-
-
-
-
-
         }
         public delegate void delegateTemplate(List<Category> anyInput);
         public static void DelegateInvoker()
